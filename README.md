@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/cellocrumbs/fullstack-cour
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Modules
-* [Module 2](http://github.com/cellocrumbs/fullstack-course-4/module2-solution)
+* [Module 2](https://cellocrumbs.github.io/fullstack-course-4/module2-solution)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
